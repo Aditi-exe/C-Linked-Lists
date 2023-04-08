@@ -117,11 +117,11 @@ int main() {
 
 Linked Lists have a number of advantages over Arrays, some of which are listed below:
 
-1. Linked lists have a dynamic size, making them efficient for collections of varying sizes without wasting memory.
-2. Linked lists allow for efficient insertion and deletion operations, especially at the beginning or end of the list, with a time complexity of O(1).
-3. Linked lists provide flexibility in memory allocation, as nodes can be allocated individually, making them suitable for situations with fragmented or limited memory.
-4. Linked lists are relatively simple to implement compared to arrays, as they do not require pre-declaration of size and can be easily modified using basic pointer operations.
-5. Linked lists are advantageous in scenarios where easy and efficient insertion at the beginning is required, as it can be done in constant time, while inserting at the beginning of an array requires shifting all existing elements.
+- Linked lists have a dynamic size, making them efficient for collections of varying sizes without wasting memory.
+- Linked lists allow for efficient insertion and deletion operations, especially at the beginning or end of the list, with a time complexity of O(1).
+- Linked lists provide flexibility in memory allocation, as nodes can be allocated individually, making them suitable for situations with fragmented or limited memory.
+- Linked lists are relatively simple to implement compared to arrays, as they do not require pre-declaration of size and can be easily modified using basic pointer operations.
+- Linked lists are advantageous in scenarios where easy and efficient insertion at the beginning is required, as it can be done in constant time, while inserting at the beginning of an array requires shifting all existing elements.
 
 The program in this repository demonstrates the implementation of Linked Lists in C.
 
